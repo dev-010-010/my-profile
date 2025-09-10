@@ -1,7 +1,7 @@
 # my-profile
 
 
-I am student in the Dept.of computer science and engineering,SEOULTECH.
+I am a student in the Dept.of computer science and engineering,SEOULTECH.
 
 my interests are
 * 🎮 computer games:especially single games
