@@ -8,4 +8,4 @@ my interests are
 * 💻 AI:I think that AI will change ther world.
 
 I want to be a programmar.
-I will be happy if I am the programmar about my interests. 
+I will be happy if I become the programmar about my interests. 
